@@ -1,0 +1,5 @@
+{
+  "pusher_key": "102bf6729c96532e9daa (main service id)",
+  "auth_username": "<your-auth-endpoint-username>",
+  "auth_password": "<your-auth-endpoint-password"
+}
